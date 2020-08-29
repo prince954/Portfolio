@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.all {
+    width: 1200px;
+    height: 1200px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.all_left {
+    width: 450px;
+    height: 1200px;
+    background: #D0CECF;
+    float: left;
+}
+
+.all_left_margin {
+    width: 400px;
+    height: 1000px;
+    margin: auto;
+}
+
+.name {
+    width: 400px;
+    height: 100px;
+    float: left;
+}
+
+.name h1 {
+    text-align: center;
+    padding-top: 25px;
+
+}
+
+.name span {
+    color: red;
+
+}
+
+.prince_photo {
+    width: 300px;
+    height: 350px;
+    margin: auto;
+}
+
+.prince_photo img {
+    width: 260px;
+    height: 250px;
+    margin: auto;
+    padding-left: 30px;  
+}
+
+.content_all {
+    width: 400px;
+    height: 750px;
+    padding-left: 15px;
+}
+
+.contact {
+    font-size: 40px;
+    padding-top: 25px;
+}
+
+
+.address h3 {
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.address p {
+    font-size: 20px;
+    padding-top: 5px;
+
+}
+
+.phone h3 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.phone p {
+    font-size: 20px;
+    padding-top: 4px;
+
+}
+
+.email h3 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.email p {
+    font-size: 20px;
+    padding-top: 4px;
+
+}
+
+
+.facebook h3 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.facebook a {
+    font-size: 20px;
+    padding-top: 4px;
+}
+
+
+.skype h3 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.skype a {
+    font-size: 20px;
+    padding-top: 4px;
+}
+
+.linkedin h3 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.linkedin a {
+    font-size: 20px;
+    padding-top: 10px;
+
+}
+
+.languages h3 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.languages p {
+    font-size: 20px;
+    padding-top: 4px;
+
+}
+
+.hobbies h3 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.hobbies ul li {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.hobbies ul {
+    padding-left: 40px;
+}
+
+
+
+
+
+
+.all_right {
+    width: 750px;
+    height: 1200px;
+    float: left;
+    background: #999999;
+}
+
+.all_right_content {
+    width: 700px;
+    height: 1100px;
+    margin: auto;
+}
+
+.summary {
+    width: 650px;
+    height: 250px;
+    margin: auto;
+}
+
+.summary h1 {
+    font-size: 40px;
+}
+
+.summary p {
+    font-size: 20px;
+    text-align: justify;
+    padding-top: 10px;
+}
+
+.full_name {
+    font-weight: bold;
+}
+
+.skill h2 {
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 110px;
+}
+
+.skill li {
+    margin-left: 55px;
+}
+
+.skill li li {
+    padding-top: 10px;
+    font-size: 17px;
+}
+
+.experience h2 {
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 50px;
+}
+
+.experience li {
+    margin-left: 55px;
+}
+
+.experience li li {
+    padding-top: 10px;
+    font-size: 17px;
+}
+.education{
+   margin-top: 70px; 
+}
+
+
+.education p{
+   width: 280px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    background: black;;
+    border: 2px solid red;
+    font-size: 20px;
+    font-style: bold;
+    color: white;
+    margin: auto;
+    padding-top: 10px;
+}
+
+table{
+    width: 680px;
+    height: 200px;
+    background: black;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    border-radius:12px;
+    color: white;
+    box-shadow: 0 0 15px black;
+}
+
+table tr,th,td{
+    border: 1px solid red;
+     border-radius:12px;
+}
+
+.certifications h1{
+    padding-left: 20px;
+    padding-top: 45px;
+}
+
+.certifications ul{
+    padding-left: 40px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.certifications ul li{
+    padding: 3px;
+}
+
+
+
+
+
+
+
+
